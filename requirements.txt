@@ -1,0 +1,6 @@
+jax==0.3.4
+numpy==1.21.2
+qiskit==0.37.1
+qiskit_ibmq_provider==0.19.2
+tensorflow==2.9.1
+tqdm==4.63.1
