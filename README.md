@@ -1,7 +1,8 @@
 # Iterative Bayesian Unfolding for Measurement Error Mitigation
 
 This package implements iterative Bayesian unfolding for mitigation
-of measurement errors from quantum computers.
+of measurement errors from quantum computers as decribed in the paper
+https://arxiv.org/pdf/2210.12284.pdf.
 
 ## IBU Quick Start
 
